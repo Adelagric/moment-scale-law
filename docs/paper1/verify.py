@@ -85,6 +85,10 @@ CHECKS = [
     ("plus de '0.97,1.08,1.31' orphelin","first three ratios happened to increase", False),
     ("affiliation remplie",            "Independent researcher", True),
     ("contact rempli",                 "kaleche@gmail.com", True),
+    ("site perso",                     "kaleche.dev", True),
+    ("pays",                           "Independent researcher,France", True),
+    ("DOI Zenodo present",             "10.5281/zenodo.21649324", True),
+    ("depot vivant present",           "github.com/Adelagric/moment-scale-law", True),
 ]
 
 
