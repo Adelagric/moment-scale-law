@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+exp0/*.npz
+docs/paper1/*.aux
+docs/paper1/*.log
+docs/paper1/*.blg
+docs/paper1/*.bbl
+docs/paper1/*.out
