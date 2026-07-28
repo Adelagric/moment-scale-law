@@ -7,3 +7,8 @@ docs/paper1/*.log
 docs/paper1/*.blg
 docs/paper1/*.bbl
 docs/paper1/*.out
+docs/paper2/
+docs/protocol/
+docs/theory/
+docs/paper1/paper.md
+exp0/README.md
