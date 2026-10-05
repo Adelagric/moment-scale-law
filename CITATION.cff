@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "moment-scale-law: code and experiments"
+type: software
+authors:
+  - family-names: Kaleche
+    given-names: Adel
+    orcid: "https://orcid.org/0009-0005-7566-1422"
+repository-code: "https://github.com/Adelagric/moment-scale-law"
+doi: "10.5281/zenodo.21649324"
+version: "v1.0.0"
+preferred-citation:
+  type: article
+  title: "How fine a change can moments see? A scale law for detecting distribution shift, with a kernel calibration rule"
+  authors:
+    - family-names: Kaleche
+      given-names: Adel
+      orcid: "https://orcid.org/0009-0005-7566-1422"
+  year: 2026
+  month: 8
+  identifiers:
+    - type: other
+      value: "arXiv:2608.01268"
+      description: arXiv preprint
+    - type: doi
+      value: "10.5281/zenodo.21701613"
+      description: Zenodo record of the preprint
+  url: "https://arxiv.org/abs/2608.01268"
+  keywords:
+    - distribution shift
+    - maximum mean discrepancy
+    - kernel bandwidth
+    - persistent homology

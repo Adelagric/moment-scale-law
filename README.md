@@ -1,7 +1,13 @@
 # How fine a change can moments see?
 
+[![arXiv](https://img.shields.io/badge/arXiv-2608.01268-b31b1b.svg)](https://arxiv.org/abs/2608.01268)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21649324.svg)](https://doi.org/10.5281/zenodo.21649324)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7566--1422-a6ce39.svg)](https://orcid.org/0009-0005-7566-1422)
+
 Code and experiments for *How fine a change can moments see? A scale law for detecting
-distribution shift, with a kernel calibration rule* (Adel Kaleche, independent researcher).
+distribution shift, with a kernel calibration rule* (Adel Kaleche, independent researcher),
+preprint [arXiv:2608.01268](https://arxiv.org/abs/2608.01268) (stat.ML). This code is archived as
+[doi:10.5281/zenodo.21649324](https://doi.org/10.5281/zenodo.21649324).
 
 Every number in the paper is produced by one of the scripts in `exp0/`. The map below says which.
 
